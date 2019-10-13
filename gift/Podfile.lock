@@ -1,0 +1,20 @@
+PODS:
+  - BmobSDK (2.3.1)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - BmobSDK
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BmobSDK
+    - SnapKit
+
+SPEC CHECKSUMS:
+  BmobSDK: e0f9e4b451233a80af63a8ae4f2d239474bf567b
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: a1e83f2dda528033535cfaef60764ed3b8db6885
+
+COCOAPODS: 1.5.2
